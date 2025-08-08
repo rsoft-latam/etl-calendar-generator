@@ -1,0 +1,7 @@
+pandas==1.5.3
+numpy==1.23.5
+openpyxl
+
+boto3
+python-dotenv
+pytz
